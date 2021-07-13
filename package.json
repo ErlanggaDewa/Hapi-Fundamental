@@ -1,0 +1,25 @@
+{
+  "name": "Hapi-Fundamental",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErlanggaDewa/Hapi-Fundamental.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErlanggaDewa/Hapi-Fundamental/issues"
+  },
+  "homepage": "https://github.com/ErlanggaDewa/Hapi-Fundamental#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.5"
+  },
+  "devDependencies": {}
+}
